@@ -1,0 +1,1 @@
+# com.magneto.lumastore_V1
