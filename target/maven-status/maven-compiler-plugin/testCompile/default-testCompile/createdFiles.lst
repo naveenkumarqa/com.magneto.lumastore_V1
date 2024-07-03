@@ -1,0 +1,8 @@
+LumaStore\testCases\TC06_ShippingPageTest.class
+LumaStore\testCases\TC07_PaymentPageTest.class
+LumaStore\testCases\TC01_IndexPageTest.class
+LumaStore\testCases\TC04_ShoppingPageTest.class
+LumaStore\testCases\TC02_LoginPageTest.class
+LumaStore\testCases\TC05_ProductPageTest.class
+LumaStore\testCases\TC08_CheckoutPageTest.class
+LumaStore\testCases\TC03_HomePageTest.class

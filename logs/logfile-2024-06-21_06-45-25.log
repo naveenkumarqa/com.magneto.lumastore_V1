@@ -1,0 +1,15 @@
+06:45:00 [main] INFO  LumaStore.base.TestBase - AddtoCart SuccessMsg validated
+06:45:02 [main] INFO  LumaStore.base.TestBase - MiniCart clicked
+06:45:02 [main] INFO  LumaStore.base.TestBase - MiniCart validated
+06:45:12 [main] INFO  LumaStore.base.TestBase - Proceed to Checkout
+06:45:13 [main] INFO  LumaStore.base.TestBase - Checkout page navigated
+06:45:14 [main] INFO  LumaStore.base.TestBase - Shipping Address validated
+06:45:14 [main] INFO  LumaStore.base.TestBase - Shipping Method selected
+06:45:18 [main] INFO  LumaStore.base.TestBase - Payment page navigated 
+06:45:18 [main] INFO  LumaStore.base.TestBase - Retrieved payment total: $47.00
+06:45:18 [main] INFO  LumaStore.base.TestBase - Retrieved and stored price: $47.00
+06:45:19 [main] INFO  LumaStore.base.TestBase - Place Order
+06:45:19 [main] INFO  LumaStore.base.TestBase - Order placed
+06:45:23 [main] INFO  LumaStore.base.TestBase - Order Purchase status validated
+06:45:23 [main] INFO  LumaStore.base.TestBase - Order Confirmed: 000007692
+06:45:25 [main] INFO  LumaStore.base.TestBase - Pending Order Num is: 000007692

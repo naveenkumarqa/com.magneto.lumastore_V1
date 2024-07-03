@@ -1,0 +1,13 @@
+18:28:38 [main] INFO  LumaStore.testCases.BaseClass - Login validated
+18:28:39 [main] INFO  LumaStore.testCases.BaseClass - Product List validated, Product count is: 6
+18:28:39 [main] INFO  LumaStore.testCases.BaseClass - Mens tag clicked
+18:28:42 [main] INFO  LumaStore.testCases.BaseClass - Navigated to desired Product-Jackets
+18:28:42 [main] INFO  LumaStore.testCases.BaseClass - Select Product category validated, Product Category: Jackets
+18:28:45 [main] INFO  LumaStore.testCases.BaseClass - Sorted based on Price
+18:28:46 [main] INFO  LumaStore.testCases.BaseClass - Sorted Product selected
+18:28:46 [main] INFO  LumaStore.testCases.BaseClass - Selected Product validation
+18:28:47 [main] INFO  LumaStore.testCases.BaseClass - Product Size added
+18:28:47 [main] INFO  LumaStore.testCases.BaseClass - Product Colour added
+18:28:47 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart clicked
+18:28:49 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart SuccessMsg validated
+18:28:51 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked

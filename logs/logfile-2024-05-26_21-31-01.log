@@ -1,0 +1,13 @@
+21:30:50 [main] INFO  LumaStore.testCases.BaseClass - Select Product category validated, Product Category: Jackets
+21:30:52 [main] INFO  LumaStore.testCases.BaseClass - Sorted based on Price
+21:30:53 [main] INFO  LumaStore.testCases.BaseClass - Sorted Product selected
+21:30:53 [main] INFO  LumaStore.testCases.BaseClass - Selected Product validation
+21:30:54 [main] INFO  LumaStore.testCases.BaseClass - Product Size added
+21:30:54 [main] INFO  LumaStore.testCases.BaseClass - Product Colour added
+21:30:54 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart clicked
+21:30:56 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart SuccessMsg validated
+21:30:57 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked
+21:30:57 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+21:31:00 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+21:31:00 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+21:31:01 [main] INFO  LumaStore.testCases.BaseClass - Address validated

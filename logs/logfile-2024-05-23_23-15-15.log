@@ -1,0 +1,13 @@
+23:13:45 [main] INFO  LumaStore.testCases.BaseClass - Indexpage Title validated
+23:13:47 [main] INFO  LumaStore.testCases.BaseClass - Signin link clicked
+23:13:47 [main] INFO  LumaStore.testCases.BaseClass - Login page navigated
+23:13:47 [main] INFO  LumaStore.testCases.BaseClass - User creds entered
+23:13:50 [main] INFO  LumaStore.testCases.BaseClass - Sign in clicked
+23:13:52 [main] INFO  LumaStore.testCases.BaseClass - Login validated
+23:13:53 [main] INFO  LumaStore.testCases.BaseClass - Product List validated, Product count is: 6
+23:14:00 [main] INFO  LumaStore.testCases.BaseClass - Mens tag clicked
+23:15:10 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716486304887
+23:15:11 [main] INFO  LumaStore.testCases.BaseClass - Indexpage validated
+23:15:11 [main] INFO  LumaStore.testCases.BaseClass - Indexpage Title validated
+23:15:11 [main] INFO  LumaStore.testCases.BaseClass - Product List validated, Product count is: 6
+23:15:12 [main] INFO  LumaStore.testCases.BaseClass - Mens tag clicked

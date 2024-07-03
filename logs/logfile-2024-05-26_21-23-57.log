@@ -1,0 +1,13 @@
+21:02:36 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+21:02:39 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+21:02:39 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+21:02:39 [main] INFO  LumaStore.testCases.BaseClass - Address validated
+21:02:40 [main] INFO  LumaStore.testCases.BaseClass - Shipping Method selected
+21:02:40 [main] INFO  LumaStore.testCases.BaseClass - Shipping validated
+21:02:42 [main] INFO  LumaStore.testCases.BaseClass - Retrieved stored payment total: null
+21:02:42 [main] INFO  LumaStore.testCases.BaseClass - Payment validated
+21:03:04 [main] INFO  LumaStore.testCases.BaseClass - Retrieved stored payment total: null
+21:03:04 [main] INFO  LumaStore.testCases.BaseClass - Retrived price is: null
+21:03:10 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716737521000 completed
+21:23:57 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716738830866
+21:23:57 [main] INFO  LumaStore.testCases.BaseClass - Indexpage validated

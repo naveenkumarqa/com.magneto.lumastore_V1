@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FST_Suite">
+
+	<listeners>
+		<listener class-name="LumaStore.utils.ReportListeners" />
+	</listeners>
+	
+	<test name="FST_Test" preserve-order="true">
+		<classes>
+			<class name="LumaStore.testCases.TC01_IndexPageTest" />
+			<class name="LumaStore.testCases.TC02_LoginPageTest" />
+			<class name="LumaStore.testCases.TC03_HomePageTest" />
+			<class name="LumaStore.testCases.TC04_ShoppingPageTest" />	
+			<class name="LumaStore.testCases.TC05_ProductPageTest" />
+			<class name="LumaStore.testCases.TC06_ShippingPageTest" />
+			<class name="LumaStore.testCases.TC07_PaymentPageTest" />
+			<class name="LumaStore.testCases.TC08_CheckoutPageTest" />
+		</classes>
+	</test>
+</suite> 

@@ -1,0 +1,14 @@
+17:19:38 [main] INFO  LumaStore.base.TestBase - Batch Run:1717847372289
+17:19:38 [main] INFO  LumaStore.base.TestBase - Generating new report...
+17:19:38 [main] INFO  LumaStore.base.TestBase - New report generated.
+17:19:44 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+17:19:44 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+17:19:45 [main] INFO  LumaStore.base.TestBase - Batch Run:1717847372289 completed
+17:30:35 [main] INFO  LumaStore.base.TestBase - Batch Run:1717848028988
+17:30:35 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+17:30:35 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+17:30:36 [main] INFO  LumaStore.base.TestBase - Batch Run:1717848028988 completed
+17:31:32 [main] INFO  LumaStore.base.TestBase - Batch Run:1717848088671
+17:31:33 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+17:31:33 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+17:31:34 [main] INFO  LumaStore.base.TestBase - Signin link clicked

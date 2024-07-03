@@ -1,0 +1,14 @@
+19:07:06 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked
+19:07:06 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+19:07:11 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+19:07:11 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+19:07:13 [main] INFO  LumaStore.testCases.BaseClass - Address validated
+19:07:57 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716730566704 completed
+19:12:30 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716730940383
+19:12:31 [main] INFO  LumaStore.testCases.BaseClass - Indexpage validated
+19:12:31 [main] INFO  LumaStore.testCases.BaseClass - Indexpage Title validated
+19:12:32 [main] INFO  LumaStore.testCases.BaseClass - Signin link clicked
+19:12:32 [main] INFO  LumaStore.testCases.BaseClass - Login page navigated
+19:12:33 [main] INFO  LumaStore.testCases.BaseClass - User creds entered
+19:12:35 [main] INFO  LumaStore.testCases.BaseClass - Sign in clicked
+19:12:38 [main] INFO  LumaStore.testCases.BaseClass - Login validated

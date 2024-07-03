@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-03T07:56:11 IST" name="EnvTest_Suite" finished-at="2024-07-03T07:56:17 IST" duration-ms="6324">
+    <groups>
+    </groups>
+    <test started-at="2024-07-03T07:56:11 IST" name="Env_Test" finished-at="2024-07-03T07:56:17 IST" duration-ms="6324">
+      <class name="LumaStore.testCases.TC01_IndexPageTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:LumaStore.testCases.TC01_IndexPageTest@5656be13]" started-at="2024-07-03T07:55:55 IST" name="launch" finished-at="2024-07-03T07:56:11 IST" duration-ms="15390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="IndexPage()[pri:0, instance:LumaStore.testCases.TC01_IndexPageTest@5656be13]" started-at="2024-07-03T07:56:11 IST" name="IndexPage" finished-at="2024-07-03T07:56:11 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndexPage -->
+        <test-method signature="verifyIndexPage()[pri:0, instance:LumaStore.testCases.TC01_IndexPageTest@5656be13]" started-at="2024-07-03T07:56:11 IST" name="verifyIndexPage" finished-at="2024-07-03T07:56:16 IST" duration-ms="5690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIndexPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LumaStore.testCases.TC01_IndexPageTest@5656be13]" started-at="2024-07-03T07:56:17 IST" name="tearDown" finished-at="2024-07-03T07:56:18 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LumaStore.testCases.TC01_IndexPageTest -->
+    </test> <!-- Env_Test -->
+  </suite> <!-- EnvTest_Suite -->
+</testng-results>

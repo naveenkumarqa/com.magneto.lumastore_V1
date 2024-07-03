@@ -1,0 +1,13 @@
+06:40:00 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked
+06:40:00 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+06:40:03 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+06:40:04 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+06:40:04 [main] INFO  LumaStore.testCases.BaseClass - Address validated
+06:40:05 [main] INFO  LumaStore.testCases.BaseClass - Shipping Method selected
+06:40:05 [main] INFO  LumaStore.testCases.BaseClass - Shipping validated
+06:40:07 [main] INFO  LumaStore.testCases.BaseClass - Payment page navigated 
+06:40:07 [main] INFO  LumaStore.testCases.BaseClass - Retrieved payment total: $141.00
+06:40:07 [main] INFO  LumaStore.testCases.BaseClass - Retrieved and stored price: $141.00
+06:40:13 [main] INFO  LumaStore.testCases.BaseClass - Checkout validated
+06:40:13 [main] INFO  LumaStore.testCases.BaseClass - Order Confirmed: 000003803
+06:40:15 [main] INFO  LumaStore.testCases.BaseClass - Pending Order Num is: 000003803

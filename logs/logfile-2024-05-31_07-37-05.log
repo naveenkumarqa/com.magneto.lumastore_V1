@@ -1,0 +1,14 @@
+07:24:54 [main] INFO  LumaStore.testCases.BaseTest - Signin link clicked
+07:24:55 [main] INFO  LumaStore.testCases.BaseTest - Login page navigated
+07:24:55 [main] INFO  LumaStore.testCases.BaseTest - User creds entered
+07:24:57 [main] INFO  LumaStore.testCases.BaseTest - Sign in clicked
+07:25:15 [main] INFO  LumaStore.testCases.BaseTest - Batch Run:1717120463480 completed
+07:27:34 [main] INFO  LumaStore.testCases.BaseTest - Batch Run:1717120644532
+07:27:35 [main] INFO  LumaStore.testCases.BaseTest - Indexpage validated
+07:27:35 [main] INFO  LumaStore.testCases.BaseTest - Indexpage Title validated
+07:27:37 [main] INFO  LumaStore.testCases.BaseTest - Signin link clicked
+07:27:37 [main] INFO  LumaStore.testCases.BaseTest - Login page navigated
+07:27:38 [main] INFO  LumaStore.testCases.BaseTest - User creds entered
+07:27:39 [main] INFO  LumaStore.testCases.BaseTest - Sign in clicked
+07:27:56 [main] INFO  LumaStore.testCases.BaseTest - Batch Run:1717120644532 completed
+07:37:04 [main] INFO  LumaStore.testCases.BaseTest - Batch Run:1717121214017

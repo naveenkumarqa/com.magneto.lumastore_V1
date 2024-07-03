@@ -1,0 +1,13 @@
+21:24:43 [main] INFO  LumaStore.testCases.BaseClass - Retrived price is: null
+21:24:48 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716738830866 completed
+21:30:39 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716739232811
+21:30:40 [main] INFO  LumaStore.testCases.BaseClass - Indexpage validated
+21:30:40 [main] INFO  LumaStore.testCases.BaseClass - Indexpage Title validated
+21:30:41 [main] INFO  LumaStore.testCases.BaseClass - Signin link clicked
+21:30:41 [main] INFO  LumaStore.testCases.BaseClass - Login page navigated
+21:30:41 [main] INFO  LumaStore.testCases.BaseClass - User creds entered
+21:30:43 [main] INFO  LumaStore.testCases.BaseClass - Sign in clicked
+21:30:48 [main] INFO  LumaStore.testCases.BaseClass - Login validated
+21:30:48 [main] INFO  LumaStore.testCases.BaseClass - Product List validated, Product count is: 6
+21:30:49 [main] INFO  LumaStore.testCases.BaseClass - Mens tag clicked
+21:30:50 [main] INFO  LumaStore.testCases.BaseClass - Navigated to desired Product-Jackets

@@ -1,0 +1,14 @@
+17:47:05 [main] INFO  LumaStore.testCases.TestBase - Login page navigated
+17:47:05 [main] INFO  LumaStore.testCases.TestBase - User creds entered
+17:47:07 [main] INFO  LumaStore.testCases.TestBase - Sign in clicked
+17:47:23 [main] INFO  LumaStore.testCases.TestBase - Batch Run:1717244214524 completed
+18:00:23 [main] INFO  LumaStore.testCases.TestBase - driver is null
+18:00:33 [main] INFO  LumaStore.testCases.TestBase - Batch Run:1717245024091
+18:00:34 [main] INFO  LumaStore.testCases.TestBase - Indexpage validated
+18:00:34 [main] INFO  LumaStore.testCases.TestBase - Indexpage Title validated
+18:00:35 [main] INFO  LumaStore.testCases.TestBase - Signin link clicked
+18:00:35 [main] INFO  LumaStore.testCases.TestBase - Login page navigated
+18:00:35 [main] INFO  LumaStore.testCases.TestBase - User creds entered
+18:00:37 [main] INFO  LumaStore.testCases.TestBase - Sign in clicked
+18:00:37 [main] INFO  LumaStore.testCases.TestBase - Login validated
+18:00:41 [main] INFO  LumaStore.testCases.TestBase - Batch Run:1717245024091 completed

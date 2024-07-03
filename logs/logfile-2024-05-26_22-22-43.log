@@ -1,0 +1,13 @@
+22:22:10 [main] INFO  LumaStore.testCases.BaseClass - Product Colour added
+22:22:10 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart clicked
+22:22:12 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart SuccessMsg validated
+22:22:14 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked
+22:22:14 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+22:22:16 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+22:22:16 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+22:22:17 [main] INFO  LumaStore.testCases.BaseClass - Address validated
+22:22:18 [main] INFO  LumaStore.testCases.BaseClass - Shipping Method selected
+22:22:18 [main] INFO  LumaStore.testCases.BaseClass - Shipping validated
+22:22:21 [main] INFO  LumaStore.testCases.BaseClass - Retrieved payment total: $47.00
+22:22:21 [main] INFO  LumaStore.testCases.BaseClass - Retrieved and stored price: $47.00
+22:22:43 [main] INFO  LumaStore.testCases.BaseClass - Retrieved stored payment total: $47.00

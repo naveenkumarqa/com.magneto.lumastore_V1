@@ -1,0 +1,14 @@
+23:30:56 [main] INFO  LumaStore.base.TestBase - MiniCart clicked
+23:30:56 [main] INFO  LumaStore.base.TestBase - MiniCart validated
+23:30:58 [main] INFO  LumaStore.base.TestBase - Proceed to Checkout
+23:30:59 [main] INFO  LumaStore.base.TestBase - Checkout page navigated
+23:31:00 [main] INFO  LumaStore.base.TestBase - Shipping Address validated
+23:31:00 [main] INFO  LumaStore.base.TestBase - Shipping Method selected
+23:31:01 [main] INFO  LumaStore.base.TestBase - Payment page navigated 
+23:31:02 [main] INFO  LumaStore.base.TestBase - Retrieved payment total: $47.00
+23:31:02 [main] INFO  LumaStore.base.TestBase - Retrieved and stored price: $47.00
+23:31:07 [main] INFO  LumaStore.base.TestBase - Place Order
+23:31:07 [main] INFO  LumaStore.base.TestBase - Order placed
+23:31:12 [main] INFO  LumaStore.base.TestBase - Checkout validated
+23:31:12 [main] INFO  LumaStore.base.TestBase - Retrieved stored payment total: $47.00
+23:31:12 [main] INFO  LumaStore.base.TestBase - Retrived stored price is: $47.00

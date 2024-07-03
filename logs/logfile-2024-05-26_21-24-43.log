@@ -1,0 +1,14 @@
+21:24:08 [main] INFO  LumaStore.testCases.BaseClass - Product Size added
+21:24:08 [main] INFO  LumaStore.testCases.BaseClass - Product Colour added
+21:24:08 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart clicked
+21:24:13 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart SuccessMsg validated
+21:24:14 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked
+21:24:14 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+21:24:17 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+21:24:17 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+21:24:18 [main] INFO  LumaStore.testCases.BaseClass - Address validated
+21:24:18 [main] INFO  LumaStore.testCases.BaseClass - Shipping Method selected
+21:24:18 [main] INFO  LumaStore.testCases.BaseClass - Shipping validated
+21:24:20 [main] INFO  LumaStore.testCases.BaseClass - Retrieved stored payment total: null
+21:24:20 [main] INFO  LumaStore.testCases.BaseClass - Payment validated
+21:24:43 [main] INFO  LumaStore.testCases.BaseClass - Retrieved stored payment total: null

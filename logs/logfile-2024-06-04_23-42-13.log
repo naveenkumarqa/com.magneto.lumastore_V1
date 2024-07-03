@@ -1,0 +1,15 @@
+23:41:57 [main] INFO  LumaStore.base.TestBase - Sorted Product selected
+23:41:57 [main] INFO  LumaStore.base.TestBase - Selected Product validation
+23:41:57 [main] INFO  LumaStore.base.TestBase - Product Size added
+23:41:57 [main] INFO  LumaStore.base.TestBase - Product Colour added
+23:41:57 [main] INFO  LumaStore.base.TestBase - AddtoCart clicked
+23:42:00 [main] INFO  LumaStore.base.TestBase - AddtoCart SuccessMsg validated
+23:42:01 [main] INFO  LumaStore.base.TestBase - MiniCart clicked
+23:42:01 [main] INFO  LumaStore.base.TestBase - MiniCart validated
+23:42:05 [main] INFO  LumaStore.base.TestBase - Proceed to Checkout
+23:42:05 [main] INFO  LumaStore.base.TestBase - Checkout page navigated
+23:42:06 [main] INFO  LumaStore.base.TestBase - Shipping Address validated
+23:42:06 [main] INFO  LumaStore.base.TestBase - Shipping Method selected
+23:42:08 [main] INFO  LumaStore.base.TestBase - Payment page navigated 
+23:42:08 [main] INFO  LumaStore.base.TestBase - Retrieved payment total: $47.00
+23:42:08 [main] INFO  LumaStore.base.TestBase - Retrieved and stored price: $47.00

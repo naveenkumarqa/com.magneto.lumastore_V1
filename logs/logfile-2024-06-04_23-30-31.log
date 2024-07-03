@@ -1,0 +1,14 @@
+23:24:13 [main] INFO  LumaStore.base.TestBase - Checkout validated
+23:24:13 [main] INFO  LumaStore.base.TestBase - Order Confirmed: 000005042
+23:24:15 [main] INFO  LumaStore.base.TestBase - Pending Order Num is: 000005042
+23:24:15 [main] INFO  LumaStore.base.TestBase - Order number validated
+23:24:15 [main] INFO  LumaStore.base.TestBase - Retrieved stored payment total: $47.00
+23:24:15 [main] INFO  LumaStore.base.TestBase - Retrived stored price is: $47.00
+23:24:15 [main] INFO  LumaStore.base.TestBase - Total price is: $47.00
+23:24:15 [main] INFO  LumaStore.base.TestBase - Total Order price validated
+23:24:19 [main] INFO  LumaStore.base.TestBase - Batch Run:1717523608710 completed
+23:30:29 [main] INFO  LumaStore.base.TestBase - Batch Run:1717524022901
+23:30:29 [main] INFO  LumaStore.base.TestBase - Indexpage validated
+23:30:29 [main] INFO  LumaStore.base.TestBase - Indexpage Title validated
+23:30:30 [main] INFO  LumaStore.base.TestBase - Signin link clicked
+23:30:31 [main] INFO  LumaStore.base.TestBase - Login page navigated

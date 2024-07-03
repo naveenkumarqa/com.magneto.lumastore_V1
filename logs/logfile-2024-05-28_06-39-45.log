@@ -1,0 +1,13 @@
+06:23:27 [main] INFO  LumaStore.testCases.BaseClass - Shipping Method selected
+06:23:28 [main] INFO  LumaStore.testCases.BaseClass - Shipping validated
+06:23:29 [main] INFO  LumaStore.testCases.BaseClass - Retrieved payment total: $94.00
+06:23:29 [main] INFO  LumaStore.testCases.BaseClass - Retrieved and stored price: $94.00
+06:23:52 [main] INFO  LumaStore.testCases.BaseClass - Retrieved stored payment total: $94.00
+06:23:52 [main] INFO  LumaStore.testCases.BaseClass - Retrived stored price is: $94.00
+06:23:58 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716857571629 completed
+06:39:39 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716858571997
+06:39:40 [main] INFO  LumaStore.testCases.BaseClass - Indexpage validated
+06:39:40 [main] INFO  LumaStore.testCases.BaseClass - Indexpage Title validated
+06:39:41 [main] INFO  LumaStore.testCases.BaseClass - Signin link clicked
+06:39:41 [main] INFO  LumaStore.testCases.BaseClass - Login page navigated
+06:39:42 [main] INFO  LumaStore.testCases.BaseClass - User creds entered

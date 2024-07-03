@@ -1,0 +1,14 @@
+19:26:31 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart clicked
+19:26:33 [main] INFO  LumaStore.testCases.BaseClass - AddtoCart SuccessMsg validated
+19:26:35 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked
+19:26:35 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+19:26:38 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+19:26:39 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+19:26:39 [main] INFO  LumaStore.testCases.BaseClass - Address validated
+19:26:40 [main] INFO  LumaStore.testCases.BaseClass - Shipping Method selected
+19:26:40 [main] INFO  LumaStore.testCases.BaseClass - Shipping validated
+19:26:41 [main] INFO  LumaStore.testCases.BaseClass - Payment validated
+19:27:43 [main] INFO  LumaStore.testCases.BaseClass - Order placed
+19:27:59 [main] INFO  LumaStore.testCases.BaseClass - Checkout validated
+19:27:59 [main] INFO  LumaStore.testCases.BaseClass - Order Confirmed: 000003446
+19:28:01 [main] INFO  LumaStore.testCases.BaseClass - Pending Order Num is: 000003446

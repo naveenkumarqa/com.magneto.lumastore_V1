@@ -1,0 +1,14 @@
+23:47:06 [main] INFO  LumaStore.base.TestBase - Shipping Address validated
+23:47:07 [main] INFO  LumaStore.base.TestBase - Shipping Method selected
+23:47:08 [main] INFO  LumaStore.base.TestBase - Payment page navigated 
+23:47:09 [main] INFO  LumaStore.base.TestBase - Retrieved payment total: $47.00
+23:47:09 [main] INFO  LumaStore.base.TestBase - Retrieved and stored price: $47.00
+23:47:09 [main] INFO  LumaStore.base.TestBase - Place Order
+23:47:09 [main] INFO  LumaStore.base.TestBase - Order placed
+23:47:14 [main] INFO  LumaStore.base.TestBase - Order Purchase status validated
+23:47:14 [main] INFO  LumaStore.base.TestBase - Order Confirmed: 000005045
+23:47:17 [main] INFO  LumaStore.base.TestBase - Pending Order Num is: 000005045
+23:47:17 [main] INFO  LumaStore.base.TestBase - Order number validated
+23:47:17 [main] INFO  LumaStore.base.TestBase - Retrieved stored payment total: $47.00
+23:47:17 [main] INFO  LumaStore.base.TestBase - Retrived stored price is: $47.00
+23:47:17 [main] INFO  LumaStore.base.TestBase - Total price is: $47.00

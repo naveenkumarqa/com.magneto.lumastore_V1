@@ -1,0 +1,13 @@
+{
+  "theme": "STANDARD",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": true,
+  "offlineMode": true,
+  "thumbnailForBase64": true,
+  "documentTitle": "Luma Store Report",
+  "reportName": "Regression Test Report",
+  "timeStampFormat": "dd-MM-YYYY / HH:mm:ss a",
+  "js": "document.getElementsByClassName('logo')[0].style.display='none';",
+  "css": ".badge-primary{background-color:#212529}"
+}

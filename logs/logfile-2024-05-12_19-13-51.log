@@ -1,0 +1,14 @@
+19:04:06 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715520831595
+19:04:48 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715520883377
+19:04:49 [main] INFO  LumaStore.testCases.BaseClass - Homepage validated
+19:04:49 [main] INFO  LumaStore.testCases.BaseClass - Homepage Title validated
+19:04:50 [main] INFO  LumaStore.testCases.BaseClass - Signin clicked
+19:04:50 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715520883377 completed
+19:04:53 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715520883427
+19:11:36 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715521288211
+19:11:36 [main] INFO  LumaStore.testCases.BaseClass - Homepage validated
+19:11:36 [main] INFO  LumaStore.testCases.BaseClass - Homepage Title validated
+19:11:37 [main] INFO  LumaStore.testCases.BaseClass - Signin clicked
+19:11:38 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715521288211 completed
+19:11:42 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715521288255
+19:11:53 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1715521288255 completed

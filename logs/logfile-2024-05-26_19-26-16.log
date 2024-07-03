@@ -1,0 +1,14 @@
+19:18:23 [main] INFO  LumaStore.testCases.BaseClass - MiniCart clicked
+19:18:23 [main] INFO  LumaStore.testCases.BaseClass - MiniCart validated
+19:18:29 [main] INFO  LumaStore.testCases.BaseClass - Proceed to Checkout
+19:18:29 [main] INFO  LumaStore.testCases.BaseClass - Checkout page navigated
+19:18:30 [main] INFO  LumaStore.testCases.BaseClass - Address validated
+19:18:31 [main] INFO  LumaStore.testCases.BaseClass - Shipping Method selected
+19:18:31 [main] INFO  LumaStore.testCases.BaseClass - Shipping validated
+19:18:33 [main] INFO  LumaStore.testCases.BaseClass - Payment validated
+19:18:56 [main] INFO  LumaStore.testCases.BaseClass - Retrived price is: $47.00
+19:19:01 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716731271345 completed
+19:26:14 [main] INFO  LumaStore.testCases.BaseClass - Batch Run:1716731766158
+19:26:14 [main] INFO  LumaStore.testCases.BaseClass - Indexpage validated
+19:26:14 [main] INFO  LumaStore.testCases.BaseClass - Indexpage Title validated
+19:26:16 [main] INFO  LumaStore.testCases.BaseClass - Signin link clicked
