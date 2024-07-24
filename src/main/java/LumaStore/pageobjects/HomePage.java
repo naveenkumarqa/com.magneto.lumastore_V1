@@ -16,14 +16,14 @@ public class HomePage extends TestBase {
 		TestBase.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
-	
+
 	//Page Elements
 	//Headers
 	@FindBy (xpath=("(//span[@class='logged-in'])[1]"))
 	WebElement LoggedIn;
 	@FindBy (xpath=("//div[@class='product-item-info']"))
 	List <WebElement> prodList;
-	
+
 	//Tags
 	@FindBy (xpath="//span[.='Men']")
 	WebElement menTag;
@@ -31,19 +31,23 @@ public class HomePage extends TestBase {
 	WebElement topsTag;
 	@FindBy (xpath="(//span[.='Jackets'])[2]")
 	WebElement jacketsTag;
-	
+
 	//Page Methods
 	public boolean validateLogin() {		
 		DriverUtils.justWait(5);
-		DriverUtils.visibleWait(LoggedIn);
-		return LoggedIn.isDisplayed();
+		try {
+			DriverUtils.visibleWait(LoggedIn);
+			return LoggedIn.isDisplayed();
+		}catch (Exception e )	{
+			return false;	
+		}
 	}
-	
+
 	public int productList() {
 		DriverUtils.scrollIntoView(prodList.get(0));
 		return prodList.size();
 	}
-	
+
 	public ShoppingPage navigateProduct() {
 		DriverUtils.visibleWait(menTag);
 		DriverUtils.hoverTo(menTag);

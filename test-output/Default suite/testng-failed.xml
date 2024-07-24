@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="LumaStore.testCases.LoginTest">
+      <class name="LumaStore.testCases.TC02_LoginPageTest">
         <methods>
-          <include name="loginTest"/>
-          <include name="launch"/>
           <include name="tearDown"/>
+          <include name="launch"/>
+          <include name="LoginPage"/>
+          <include name="verifyLogin"/>
         </methods>
-      </class> <!-- LumaStore.testCases.LoginTest -->
+      </class> <!-- LumaStore.testCases.TC02_LoginPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

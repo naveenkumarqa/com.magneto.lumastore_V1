@@ -38,7 +38,7 @@ public class TC02_LoginPageTest extends TestBase {
 
 		//Validate Login
 		boolean isLoginSuccess = hp.validateLogin();
-		Assert.assertTrue(isLoginSuccess,"Login falied");
-		logger.info("Login validated");
+		Assert.assertTrue(isLoginSuccess,"Login validation failure");
 	}
+		
 }
